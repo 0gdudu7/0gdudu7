@@ -1,7 +1,6 @@
 Strong Hug 👋
 
- 💰ARTISTA
- ⚽ JOGADOR
+ 💰 ARTISTA
  🏌🏾‍♂️CRAZY LIFE
  🌆 MADE IN QUEBRADA
  👑 FRESH PRINCE
