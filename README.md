@@ -1,6 +1,6 @@
 Strong Hug 👋
 
- 💰 ARTISTA
+ 
  <br>
  🌆 MADE IN QUEBRADA
  <br>
