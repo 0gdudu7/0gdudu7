@@ -1,5 +1,4 @@
-<br>
-  <center>🇧🇷 TÉCNICO EM T.I</center>
+🇧🇷 TÉCNICO EM T.I
 <br>
 ## ferramentas e tecnologias 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="100"/>
