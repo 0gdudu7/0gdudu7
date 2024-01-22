@@ -5,11 +5,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="100"/>
 <br>
  <center><h2>ESTOU APRENDENDO</h2></center>
- <div class="box">
+ <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100" height="100" /> 
-   <div class="box">
+   <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100"/>
-     <div class="box">
+     <div>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="100" />
 
 <div> 
