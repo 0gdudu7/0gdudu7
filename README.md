@@ -1,7 +1,7 @@
-🇧🇷 <h2>TÉCNICO EM T.I<h2>
+🇧🇷 <h2>TÉCNICO EM T.I</h2>
 ## ferramentas e tecnologias 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="100"/>
- <center><h2>ESTOU APRENDENDO</h2></center>
+ <h2>ESTOU APRENDENDO</h2>
  <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100" height="100" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100"/>
